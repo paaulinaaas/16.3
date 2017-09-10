@@ -1,5 +1,25 @@
 {
+  "name": "16.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack"
-},
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paaulinaaas/16.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paaulinaaas/16.3/issues"
+  },
+  "homepage": "https://github.com/paaulinaaas/16.3#readme"
 }
